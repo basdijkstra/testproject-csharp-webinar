@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject.OpenSDK.Webinar.Examples", "TestProject.OpenSDK.Webinar.Examples\TestProject.OpenSDK.Webinar.Examples.csproj", "{219D29F9-DCA4-4AC8-8AE9-428FFD823217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject.OpenSDK.Webinar.SpecFlow", "TestProject.OpenSDK.Webinar.SpecFlow\TestProject.OpenSDK.Webinar.SpecFlow.csproj", "{5C1FF30D-120F-4814-BC66-68126C12E422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219D29F9-DCA4-4AC8-8AE9-428FFD823217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219D29F9-DCA4-4AC8-8AE9-428FFD823217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219D29F9-DCA4-4AC8-8AE9-428FFD823217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219D29F9-DCA4-4AC8-8AE9-428FFD823217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1FF30D-120F-4814-BC66-68126C12E422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1FF30D-120F-4814-BC66-68126C12E422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1FF30D-120F-4814-BC66-68126C12E422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1FF30D-120F-4814-BC66-68126C12E422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0CD5D6-546B-4894-95B4-847499E2DCFA}
+	EndGlobalSection
+EndGlobal
